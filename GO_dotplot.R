@@ -42,6 +42,7 @@ dotplot(up_BP)
 dotplot(up_MF)
 
 ##################################################################
+# 水稻MSU和RAP ID 转换在线网站：http://bioinf.mind.meiji.ac.jp/OryzaExpress/ID_converter.php
 # 一种新方法
 # 先用在线网站分析， http://systemsbiology.cau.edu.cn/agriGOv2/
 # 再用ggplot绘图
